@@ -298,11 +298,17 @@
   .gap-\[10px\] {
     gap: 10px;
   }
+  .gap-\[16px\] {
+    gap: 16px;
+  }
   .gap-\[20px\] {
     gap: 20px;
   }
   .gap-\[50px\] {
     gap: 50px;
+  }
+  .gap-y-\[16px\] {
+    row-gap: 16px;
   }
   .gap-y-\[20px\] {
     row-gap: 20px;
@@ -357,6 +363,9 @@
   }
   .p-\[50px\] {
     padding: 50px;
+  }
+  .p-\[60px\] {
+    padding: 60px;
   }
   .pt-\[5px\] {
     padding-top: 5px;
