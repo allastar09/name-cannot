@@ -163,6 +163,9 @@
   .m-auto {
     margin: auto;
   }
+  .mt-\[0px\] {
+    margin-top: 0px;
+  }
   .mt-\[5pc\] {
     margin-top: 5pc;
   }
@@ -181,8 +184,17 @@
   .mt-\[10px\] {
     margin-top: 10px;
   }
+  .mt-\[20px\] {
+    margin-top: 20px;
+  }
+  .mt-\[50px\] {
+    margin-top: 50px;
+  }
   .mt-\[54\] {
     margin-top: 54;
+  }
+  .mt-\[80px\] {
+    margin-top: 80px;
   }
   .mr-\[5px\] {
     margin-right: 5px;
@@ -228,6 +240,9 @@
   }
   .h-\[38px\] {
     height: 38px;
+  }
+  .h-\[58px\] {
+    height: 58px;
   }
   .h-\[236px\] {
     height: 236px;
@@ -310,6 +325,9 @@
   .gap-\[50px\] {
     gap: 50px;
   }
+  .gap-y-\[10px\] {
+    row-gap: 10px;
+  }
   .gap-y-\[16px\] {
     row-gap: 16px;
   }
@@ -379,6 +397,12 @@
   .pt-\[10px\] {
     padding-top: 10px;
   }
+  .pt-\[20px\] {
+    padding-top: 20px;
+  }
+  .pt-\[50px\] {
+    padding-top: 50px;
+  }
   .pr-\[10px\] {
     padding-right: 10px;
   }
@@ -396,6 +420,12 @@
   }
   .text-\[12px\] {
     font-size: 12px;
+  }
+  .text-\[14px\] {
+    font-size: 14px;
+  }
+  .text-\[16px\] {
+    font-size: 16px;
   }
   .text-\[20px\] {
     font-size: 20px;
