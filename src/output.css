@@ -277,6 +277,9 @@
   .flex-col {
     flex-direction: column;
   }
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
   .items-center {
     align-items: center;
   }
@@ -303,6 +306,9 @@
   }
   .gap-y-\[20px\] {
     row-gap: 20px;
+  }
+  .gap-y-\[22px\] {
+    row-gap: 22px;
   }
   .rounded {
     border-radius: 0.25rem;
